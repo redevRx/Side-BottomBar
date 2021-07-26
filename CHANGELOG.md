@@ -1,3 +1,2 @@
 ## 0.0.1
-
-* TODO: Describe initial release.
+make botton navigation bar with animation sider

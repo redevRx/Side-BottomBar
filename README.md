@@ -176,6 +176,12 @@ SideBottomBar(
 ### Example
 <center>
 <a href="https://github.com/redevRx/CircleCheckBox">
- <img src="https://fb.watch/6_CNbMnbGc/" width="200"/>
+ <img src="https://github.com/redevRx/Side-BottomBar/blob/main/side_bottombar.gif" width="200"/>
 </a>
 </center>
+
+### Example
+<video width="200" controls>
+  <source src="https://github.com/redevRx/Side-BottomBar/blob/main/side_bottom.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
